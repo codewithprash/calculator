@@ -1,0 +1,15 @@
+C:\Users\zoey\source\repos\calc\calc\bin\Release\calc.exe.config
+C:\Users\zoey\source\repos\calc\calc\bin\Release\calc.exe.manifest
+C:\Users\zoey\source\repos\calc\calc\bin\Release\calc.application
+C:\Users\zoey\source\repos\calc\calc\bin\Release\calc.exe
+C:\Users\zoey\source\repos\calc\calc\bin\Release\calc.pdb
+C:\Users\zoey\source\repos\calc\calc\bin\Release\calc.xml
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.Form1.resources
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.Resources.resources
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.vbproj.GenerateResource.cache
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.vbproj.CoreCompileInputs.cache
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.exe.manifest
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.application
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.exe
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.xml
+C:\Users\zoey\source\repos\calc\calc\obj\Release\calc.pdb
