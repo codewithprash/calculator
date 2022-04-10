@@ -1,6 +1,6 @@
 # Calculator
 Calculator in VB.net framework ( Visual Basic .NET )
-[![License: MIT]
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
 - Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
 - Infinite precision for basic arithmetic operations (addition, subtraction, multiplication, division) so that calculations never lose precision.
