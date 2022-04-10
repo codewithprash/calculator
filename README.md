@@ -1,5 +1,5 @@
 # Calculator
-Calculator in VB.net framework
+Calculator in VB.net framework (visual basic dot net)
 
 - Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
 - Infinite precision for basic arithmetic operations (addition, subtraction, multiplication, division) so that calculations never lose precision.
